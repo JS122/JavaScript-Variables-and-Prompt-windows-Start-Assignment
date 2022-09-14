@@ -1,0 +1,13 @@
+body{
+
+    font-family: cursive;
+    font-size: 40px;
+    color: rgb(236, 188, 124);
+    background-color: rgb(103, 115, 182);
+    
+    text-align: left;
+    margin: 0;
+    position: static;
+    top: 50%;
+
+    }
